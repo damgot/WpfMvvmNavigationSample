@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WpfMvvmNavigationSample.ViewModel;
 
-namespace WpfMvvmNavigationSample.Service
+namespace WpfMvvmNavigationSample.Services
 {
     public class NavigationService : ObservableObject
     {

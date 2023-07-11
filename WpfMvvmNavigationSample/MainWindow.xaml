@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfMvvmNavigationSample"
         mc:Ignorable="d"
-        Title="Wpf Mvvm Navigation Sample"
         WindowState="Maximized"
         Width="1200"
         Height="1000"
@@ -13,7 +12,7 @@
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary  Source="/Service/ViewDataTemplates.xaml"/>
+                <ResourceDictionary  Source="/Services/ViewDataTemplates.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Window.Resources>

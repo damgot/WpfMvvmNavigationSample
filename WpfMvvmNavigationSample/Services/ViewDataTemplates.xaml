@@ -1,7 +1,7 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:View="clr-namespace:WpfMvvmNavigationSample.View"
-                    xmlns:DataTemplate="clr-namespace:WpfMvvmNavigationSample.Service">
+                    xmlns:DataTemplate="clr-namespace:WpfMvvmNavigationSample.Services">
     
     <DataTemplate x:Key="MainViewTemplate">
         <View:MainView/>

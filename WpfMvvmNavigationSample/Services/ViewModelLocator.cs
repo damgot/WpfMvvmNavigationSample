@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using WpfMvvmNavigationSample.Common;
 using WpfMvvmNavigationSample.ViewModel;
 
-namespace WpfMvvmNavigationSample.Service
+namespace WpfMvvmNavigationSample.Services
 {
     public class ViewModelLocator
     {

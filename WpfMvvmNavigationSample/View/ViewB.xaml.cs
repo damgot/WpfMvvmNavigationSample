@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using WpfMvvmNavigationSample.Common;
-using WpfMvvmNavigationSample.Service;
+using WpfMvvmNavigationSample.Services;
 using WpfMvvmNavigationSample.ViewModel;
 
 namespace WpfMvvmNavigationSample.View

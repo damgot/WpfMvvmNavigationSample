@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using WpfMvvmNavigationSample.ViewModel;
 
-namespace WpfMvvmNavigationSample.Service
+namespace WpfMvvmNavigationSample.Services
 {
     public class ViewModelDataTemplateSelector : DataTemplateSelector
     {

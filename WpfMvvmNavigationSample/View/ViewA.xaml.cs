@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Controls;
 using WpfMvvmNavigationSample.Common;
-using WpfMvvmNavigationSample.Service;
+using WpfMvvmNavigationSample.Services;
 using WpfMvvmNavigationSample.ViewModel;
 
 namespace WpfMvvmNavigationSample.View
